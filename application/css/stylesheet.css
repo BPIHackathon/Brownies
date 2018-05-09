@@ -1,0 +1,11 @@
+#myContainer {
+  width: 1400px;
+  height: 600px;
+  position: relative;
+  background: #000000;
+  /*background: #C9EFF2;*/
+}
+#myAnimation {
+  position: absolute;
+  fill:rgb(0,0,155);
+}
